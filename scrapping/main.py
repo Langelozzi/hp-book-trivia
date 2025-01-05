@@ -1,4 +1,4 @@
-from trivia_whizz import extract_from_triviawhizz
+from scrapping.scrappers.trivia_whizz import extract_from_triviawhizz
 from helpers import write_data, get_data_file_path
 
 
