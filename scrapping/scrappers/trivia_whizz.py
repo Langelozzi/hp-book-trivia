@@ -1,9 +1,11 @@
-from helpers import get_raw_html, format_question_data
+from helpers import get_raw_html, format_question_data, get_data_file_path, write_data
 from bs4 import BeautifulSoup
 
 URL = 'https://triviawhizz.com/harry-potter/'
 
 def extract_from_triviawhizz() -> list[dict]:
+    print(f'Starting data extraction from "{URL}"...')
+
     html = get_raw_html(URL)
     soup = BeautifulSoup(html, 'html.parser')
 
@@ -22,7 +24,15 @@ def extract_from_triviawhizz() -> list[dict]:
 
         questions.append(format_question_data(q_text, a_text))
     
-    print(f'Extracted {len(questions)} questions from {URL}')
+    num_q = len(questions)
+    data_file = get_data_file_path('triviawhizz')
+    
+    print(f'Success: Extracted {num_q} questions from "{URL}"')
+
+    print(f'\nWriting {num_q} to {data_file}...')
+    write_data(questions, data_file)
+    print(f'Success: {num_q} questions written to {data_file}')
+    
     return questions
 
 
