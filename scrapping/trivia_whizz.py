@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 URL = 'https://triviawhizz.com/harry-potter/'
 
-def extract() -> list[dict]:
+def extract_from_triviawhizz() -> list[dict]:
     html = get_raw_html(URL)
     soup = BeautifulSoup(html, 'html.parser')
 
@@ -22,8 +22,9 @@ def extract() -> list[dict]:
 
         questions.append(format_question_data(q_text, a_text))
     
+    print(f'Extracted {len(questions)} questions from {URL}')
     return questions
 
 
 if __name__ == '__main__':
-    extract()
+    extract_from_triviawhizz()
