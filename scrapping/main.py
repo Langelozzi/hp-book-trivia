@@ -6,11 +6,10 @@ from helpers import add_new_field_w_default_value
 import json
 
 
-def add_field_to_file():
-    filepath = '../data/individual/readersdigest.json', 'r'
-    with open(filepath) as file:
+def add_field_to_file(filepath, field, value):
+    with open(filepath, 'r') as file:
         data = json.load(file)
-        updated_data = add_new_field_w_default_value(data, 'flag', False)
+        updated_data = add_new_field_w_default_value(data, field, value)
     
     with open(filepath, 'w') as file:
         json.dump(updated_data, file)
@@ -36,4 +35,6 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    # main()
+    filepath = '../data/q.json'
+    add_field_to_file(filepath, 'checked', False)
