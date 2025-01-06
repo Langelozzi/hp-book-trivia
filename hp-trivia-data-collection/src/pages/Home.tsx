@@ -1,8 +1,8 @@
-import { Typography, Button, Box } from '@mui/material';
-import { Link, useNavigate } from 'react-router-dom';
-import rawData from '../data/q.json'
-import OverviewCard from '../components/OverviewCard';
+import { Box } from '@mui/material';
 import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import OverviewCard from '../components/OverviewCard';
+import rawData from '../data/q.json';
 
 const Home = () => {
     const [data, setData] = useState(rawData);

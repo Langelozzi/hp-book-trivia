@@ -15,6 +15,15 @@ def add_field_to_file(filepath, field, value):
         json.dump(updated_data, file)
 
 
+def add_ids(filepath):
+    with open(filepath, 'r') as file:
+        data = json.load(file)
+        for index, d in enumerate(data):
+            d['id'] = index + 1
+    
+    with open(filepath, 'w') as file:
+        json.dump(data, file)
+
 
 def main():
     extractor_funcs = [
@@ -37,4 +46,4 @@ def main():
 if __name__ == '__main__':
     # main()
     filepath = '../data/q.json'
-    add_field_to_file(filepath, 'checked', False)
+    add_ids(filepath)

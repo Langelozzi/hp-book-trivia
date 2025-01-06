@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Card, CardContent, CardActions, Typography, Button } from '@mui/material';
 import { Question } from '../interfaces/question';
 
@@ -13,6 +13,10 @@ const QuestionCard: React.FC<QuestionCardProps> = ({ q }) => {
     const toggleAnswer = () => {
         setShowAnswer((prev) => !prev); // Toggle the visibility
     };
+
+    useEffect(() => {
+        setShowAnswer(false);
+    }, [q])
 
     return (
         <Card sx={{ marginBottom: 2 }}>
