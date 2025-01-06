@@ -33,6 +33,7 @@ const QuestionPage = () => {
         delta: 50
     });
 
+    // Add buttons that are stuck at bottom that will allow the user to navigate between questions in desktop mode (only in desktop view)
     return (
         <>
             <Typography align="center">
