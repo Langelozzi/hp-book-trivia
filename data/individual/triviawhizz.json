@@ -4,1357 +4,1551 @@
         "a": "Snakes",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What does Voldemort take from Harry in The Goblet of Fire?",
         "a": "Blood",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many times was Nearly Headless Nick hit in the neck by an axe?",
         "a": "45",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which studios distributed the \u2018Harry Potter\u2019 movies?",
         "a": "Warner Bros.",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How old is Harry Potter in the first novel?",
         "a": "11",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who does Harry encourage to have a pasty in the first book?",
         "a": "Ron",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many galleons did Mr Weasley win the Daily Prophet Grand Draw?",
         "a": "700",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which organization is responsible for creating laws in the magical world?",
         "a": "The Ministry of Magic",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the animagus form of Professor Minerva McGonagall?",
         "a": "A Cat",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the magical equivalent of the game of marbles called?",
         "a": "Gobstones",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which of the Triwizard judges was a convicted death eater?",
         "a": "Igor Karkaroff",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who does Ron think he smells like in his dress robes?",
         "a": "Great Aunt Tessie",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What are the supporters of Lord Voldemort called?",
         "a": "Death Eaters",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which castle, seat of the Duke of Northumberland, has been used as Hogwarts in the Harry Potter films?",
         "a": "Alnwick",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Where does Molly Weasley keep her supply of Floo Powder?",
         "a": "Flowerpot",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Aberforth Dumbledore was prosecuted for practising charms on what animal?",
         "a": "Goat",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which Harry Potter book features the line \u2018Do not pity the dead, Harry. Pity the living, and, above all those who live without love\u2019?",
         "a": "The Deathly Hallows",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the only charm Gilderoy Lockhart excels at?",
         "a": "Memory",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What animal is produced by Harry\u2019s patronus spell?",
         "a": "A Stag",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many Harry Potter book were there in total?",
         "a": "7",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In the \u2018Harry Potter\u2019 series, what is Aragog?",
         "a": "A Giant Spider",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In what year was the last \u2018Harry Potter\u2019 movie released?",
         "a": "2011",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Harry learns how to play wizard chess from who?",
         "a": "Ron",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "The role of Hermione is portrayed by which actress in the \u2018Harry Potter\u2019 series?",
         "a": "Emma Watson",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the minimom age for a Triwizard Competitor?",
         "a": "17",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many times was Nearly Headless Nick axed in the neck?",
         "a": "45",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What color are howlers?",
         "a": "Red",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "The first centaur Harry meets in book 1 is who?",
         "a": "Ronan",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who didn\u2019t Harry bring back with the resurrection stone?",
         "a": "Tonks",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was the last Horcrux they needed to destroy?",
         "a": "Nagini",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What do the Death Eaters have a tattoo of on their arms?",
         "a": "The Dark Mark",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Where does Hagrid keep his wand?",
         "a": "In His Umbrella",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who plays Professor Quirrell in Harry Potter and the Philosopher\u2019s Stone?",
         "a": "Ian Hart",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who was waiting for Harry when he got off the Knight Bus?",
         "a": "Cornelius Fudge",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In the \u2018Harry Potter\u2019 series, what is the name of Hagrid\u2019s three-headed dog?",
         "a": "Fluffy",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is Harry\u2019s response when Draco asks him if he\u2019s scared?",
         "a": "You Wish",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What should we do to find happiness in the darkest of times?",
         "a": "Turn on the Light",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was the name of Harry Potter\u2019s mother?",
         "a": "Lily",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "At the hospital, what floor is the spell damage on?",
         "a": "4th",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Tom Marvolo Riddle is better known by what name?",
         "a": "Voldemort",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was Professor Lupin?",
         "a": "Werewolf",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who does Hermione smack in the face for badmouthing Hagrid?",
         "a": "Draco",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is Dumbledore\u2019s job?",
         "a": "Headmaster",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Those with a ready mind belong is which house according the sorting hat?",
         "a": "Ravenclaw",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many Weasley children are there?",
         "a": "7",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Whom did Harry Potter marry?",
         "a": "Ginny Weasley",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many Academy Awards in total did the \u2018Harry Potter\u2019 movie series win?",
         "a": "0",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "At the Burrow, how many hands does the Weasley family clock have?",
         "a": "9",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who uttered the immortal words \u2018Harry, you\u2019re a wizard\u2019?",
         "a": "Hagrid",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In Harry Potter, who found the sword of Griffindor in the lake?",
         "a": "Harry",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What shape is Harry\u2019s scar on his forehead?",
         "a": "A Lightning Bolt",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is missing from the popular book title: \u2018Harry Potter and the Prisoner of \u2026\u2019?",
         "a": "Azkaban",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "As of the end of 2014 approximately how many books have sold worldwide?",
         "a": "450m",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who is the Hogwarts school flying teacher?",
         "a": "Madam Hooch",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is Professor Dumbledore\u2019s first name?",
         "a": "Albus",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the favorite drink of wizards in the Harry Potter universe?",
         "a": "Butterbeer",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What sort of establishment is the Leaky Cauldron?",
         "a": "Pub",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Harry saw which professor at the Three Broomsticks?",
         "a": "McGonagall",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Harry Potter is placed in which house at Hogwarts?",
         "a": "Gryffindor",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What happens if you touch a portkey?",
         "a": "You Will Be Taken Elsewhere",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is Lord Voldemort\u2019s real name?",
         "a": "Tom Marvolo Riddle",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What relation of Harry Potter is Vernon Dursley?",
         "a": "Uncle",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Professor McGonagall was played by which actress in the \u2018Harry Potter\u2019 film series?",
         "a": "Maggie Smith",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What color were the sparks that flew out of Harry\u2019s wand the first time he held it?",
         "a": "Red and Gold",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is Quidditch?",
         "a": "A Sport",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who earned 10 points for standing up to his friends?",
         "a": "Neville",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "At the beginning of book 1 Harry speaks to a what?",
         "a": "Snake",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which of these Harry Potter novels was published first?",
         "a": "Philosophers Stone",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was the angel on top of the Weasley\u2019s Christmas tree?",
         "a": "A Gnome",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Blue and what are the house colors of Ravenclaw?",
         "a": "Bronze",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What number Privet Drive did they live at?",
         "a": "4",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Percy gave Ginny what potion not realising she was under Tom Riddle\u2019s influence?",
         "a": "Pepperup",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "The Slytherin badge has which animal on it?",
         "a": "Snake",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "The third task on the Triwizard tournament took place where?",
         "a": "The Quidditch Pitch",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which Hogwarts professor used to be a Death Eater?",
         "a": "Snape",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In the \u2018Harry Potter\u2019 books, what kind of establishment is The Three Broomsticks?",
         "a": "Pub",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was Mr Weasley\u2019s reaction to discovering his sons had flown his car?",
         "a": "Did You Really?",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many movies were there in the \u2018Harry Potter\u2019 series?",
         "a": "8",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was the highest-grossing of the \u2018Harry Potter\u2019 movies?",
         "a": "Deathly Hallows \u2013 Part 2",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which year saw the release of The Goblet of Fire?",
         "a": "2000",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "The Hogwarts Express leaves from Platform Nine and Three-Quarters at which London station?",
         "a": "King\u2019s Cross",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In what month is Harry Potter\u2019s birthday?",
         "a": "July",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In which county is the \u2018Privet Drive\u2019 situated?",
         "a": "Surrey",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was Professor Quirrell\u2019s first name?",
         "a": "Quirinus",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Vernon and Petunia Dursley live in Little Whinging, in which English county?",
         "a": "Surrey",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many years were there between the Goblet of Fire and the Order of the Phoenix?",
         "a": "3",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Horace Slugworth is disguised as what when Harry first meets him?",
         "a": "Armchair",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How does George say he feels after losing his ear?",
         "a": "Saintlike",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who is Harry Potters mother?",
         "a": "Lily Evans",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "The Prisoner of Azkaban was released in which year?",
         "a": "1999",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many Harry Potter novels has J. K. Rowling written?",
         "a": "7",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What treat did Ron eat on his first journey to Hogwarts?",
         "a": "Chocolate Frog",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who succeeds Oliver Wood as the captain of the Gryffindor Quidditch team?",
         "a": "Angelina Johnson",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What kind of car do the Weasley brothers fly in to rescue Harry?",
         "a": "Ford Anglia",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Complete this characters name \u2018Ronald ____\u2019.",
         "a": "Weasley",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Dobby and Winky are what kind of magical creatures?",
         "a": "House Elves",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "According to Harry Potter, around what age do unicorns become white instead of silver or gold?",
         "a": "7",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What birthday does Harry celebrate in the first book?",
         "a": "11th",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who created the score for the first three \u2018Harry Potter\u2019 movies?",
         "a": "John Williams",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who is the oldest of the Weasley clan?",
         "a": "Bill",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Xenophillius Lovegood offended who with the symbol he wore?",
         "a": "Viktor Krum",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was the first spell Harry wanted to teach Dumbledore\u2019s Army?",
         "a": "Expelliarmus",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In the fourth Harry Potter book, what was Dobby\u2019s favorite clothing?",
         "a": "Socks",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Moody transfigures who into a ferret as a punishment?",
         "a": "Draco",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is Dumbledore\u2019s first name?",
         "a": "Albus",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "The supposed murder of who was one of the reasons Sirius was sent to Azkaban?",
         "a": "Peter Pettigrew",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What animal is Ron scared of more than anything else?",
         "a": "Spiders",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was Peter Pettigrew better known as?",
         "a": "Wormtail",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "James and Lily Potter died in which year?",
         "a": "1981",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Dumbledore got which \u2018Every Flavour Bean\u2019 in the infirmary?",
         "a": "Ear Wax",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who is the landlord of The Leaky Cauldron?",
         "a": "Tom",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which of the following was a member of the Order of the Phoenix?",
         "a": "Mad Eye Moody",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "A Chimera has the head of which of the following?",
         "a": "Lion",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In Harry Potter \u2018Chamber of Secrets\u2019, what was the name of Aragog\u2019s wife?",
         "a": "Mosag",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How old was Sirius Black when he died?",
         "a": "38",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was the name of Hagrid\u2019s Norwegian Ridgeback dragon?",
         "a": "Norbert",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What Nationality is Alfonso Cuar\u00f3n, who directed the third Harry Potter Movie?",
         "a": "Mexican",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which actor plays the character Ollivander?",
         "a": "John Hurt",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who did Harry Potter share his first kiss with?",
         "a": "Cho Chang",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which of these is the name of a Harry Potter book?",
         "a": "The Deathly Hallows",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Professor Snape\u2019s petronus was what?",
         "a": "A Doe",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many of Voldemort\u2019s horcruxes do they have to destroy in the last film?",
         "a": "3",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "The Chamber of Secrets was published in which year?",
         "a": "1998",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who directed the last three \u2018Harry Potter\u2019 movies?",
         "a": "David Yates",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What did Hermione turn into when she got the polyjuice potion wrong?",
         "a": "A Cat",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who is Colin Creevey\u2019s brother?",
         "a": "Denis",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who is the Head of Herbology at Hogwarts?",
         "a": "Professor Sprout",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who played the role of Ron Weasley in the \u2018Harry Potter\u2019 movie series?",
         "a": "Rupert Grint",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Complete the well-known book title: \u2018Harry Potter and the Order of \u2026\u2019?",
         "a": "The Phoenix",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Ginny\u2019s middle name is what?",
         "a": "Molly",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which of these is not one of the four houses in the \u2018Harry Potter\u2019 series?",
         "a": "Minerva",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In the Half Blood Prince who says of Harry \u2018He\u2019s covered in blood again\u2019?",
         "a": "Ginny",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "The Hogwarts Express ends its northbound journey at which station?",
         "a": "Hogsmeade",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Constant Vigilance is a phrase muttered by who?",
         "a": "Mad Eye Moody",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who wrote the \u2018Harry Potter\u2019 series of novels?",
         "a": "J. K. Rowling",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In Harry Potter and the Sorcerer\u2019s Stone, what color is the stone?",
         "a": "Red",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who was the caretaker of Hogwarts?",
         "a": "Filch",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Dark magical artefacts can be found in which Knockturn Alley shop?",
         "a": "Borgin & Burkes",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In the first Harry Potter book, when did Dumbledore defeat the dark Wizard Grindelwald?",
         "a": "1945",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which comedian played the ghost \u2018nearly headless Nick\u2019?",
         "a": "John Cleese",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Fred & George\u2019s birthday is what date in April?",
         "a": "1st",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Ron plays a dangerous game of what at the end of the first book?",
         "a": "Chess",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In which country was the \u2018Harry Potter\u2019 series filmed?",
         "a": "England",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many knuts are there in a sickle?",
         "a": "29",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who hides Harry\u2019s letters in the Chamber of Secrets?",
         "a": "Dobby",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What subject does Professor McGonagall teach?",
         "a": "Transfiguration",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In which English county is the Burrow?",
         "a": "Devon",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How long had the Chamber of Secrets been sealed?",
         "a": "50 years",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How old is Severus Snape when he dies in Book 7 (\u2018The Deathly Hallows\u2019)?",
         "a": "38",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who has Voldemort recruited as a Death Eater at the start of book 6?",
         "a": "Draco",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which of the following words is now in the Oxford English Dictionary?",
         "a": "Muggle",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who killed Dobby the House Elf?",
         "a": "Bellatrix Lestrange",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the name of Harry Potters owl?",
         "a": "Hedwig",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who wrote the original \u2018Harry Potter\u2019 book series?",
         "a": "J. K. Rowling",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which dinosaur was named in honor of JK Rowling\u2019s book Harry Potter?",
         "a": "Dracorex Hagwartsia",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is Hagrid?",
         "a": "Half-Giant",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who is the only girl in the Tri Wizards tournament?",
         "a": "Fleur Delacour",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Draco poisons which drink which nearly kills Ron?",
         "a": "Mead",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many points is the Golden Snitch worth?",
         "a": "150",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Fleur Delacour marries which of the Weasley\u2019s?",
         "a": "Bill",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which year saw the release of The Half Blood Prince?",
         "a": "2005",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "When does a Quidditch game end?",
         "a": "When the Seeker Catches the Golden Snitch",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What are the non-magic people called in the \u2018Harry Potter\u2019 stories?",
         "a": "Muggles",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which of these is one of the Hogwarts Houses in the \u2018Harry Potter\u2019 books?",
         "a": "Hufflepuff",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What one word does Snape use to describe his love for Lily Potter?",
         "a": "Always",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the name of Hagrid\u2019s giant brother?",
         "a": "Grawp",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In the \u2018Harry Potter\u2019 novels, what species of owl is Hedwig?",
         "a": "Snowy Owl",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Sirius attacked who trying to get into Gryffindor\u2019s common room?",
         "a": "The Fat Lady",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Professor Remus Lupin had what boyhood nickname?",
         "a": "Moony",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What birthday did Harry celebrate in the first book?",
         "a": "11",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the name of the wand shop on Diagon Alley?",
         "a": "Ollivanders",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Whose refusal to teach practical defence against the dark arts led to the formation of Dumbledore\u2019s Army?",
         "a": "Dolores Umbridge",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the name of the fictional game in the \u2018Harry Potter\u2019 series?",
         "a": "Quidditch",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Cho Chang played in which position in the Ravenclaw Quidditch team?",
         "a": "Seeker",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who delivered Ron\u2019s howler?",
         "a": "Errol",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who was the cinematographer for the final two \u2018Harry Potter\u2019 movies?",
         "a": "Eduardo Serra",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the name of Professor Dumbledore\u2019s brother?",
         "a": "Aberforth",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was the vault number that the Philosopher\u2019s stone was in?",
         "a": "713",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was the name of the fourth movie in the \u2018Harry Potter\u2019 series?",
         "a": "Goblet of Fire",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who replaces Dumbledore as the headmaster of Hogwarts?",
         "a": "Snape",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "The Avifors spell turns things into what?",
         "a": "Birds",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In Harry Potter \u2018The Prisoner Of Azkaban\u2019, what is the boggart of Parvati Patil?",
         "a": "Mummy",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is missing from the well-known title: \u2018Harry Potter and the \u2026 Prince?",
         "a": "Half-Blood",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who did Ron beat to become the Quidditch keeper?",
         "a": "Cormac",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which Harry Potter movie was released just a few weeks before Christmas 2010?",
         "a": "Deathly Hallows Part 1",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many pages are there in the Philosopher\u2019s Stone book?",
         "a": "223",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In \u2018Harry Potter and the Deathly Hallows\u2019 what patronus does Snape have?",
         "a": "Doe",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "According to the sign in Borgin & Burkes how many muggles had the opal necklace killed?",
         "a": "19",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What was in Hermione\u2019s hand when she was petrified?",
         "a": "A Mirror",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In a game of Quidditch, catching the Golden Snitch is worth how many points?",
         "a": "150",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Complete this characters name \u2018Rita ____\u2019.",
         "a": "Skeeter",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Fred and George opened which shop in Diagon Alley?",
         "a": "Weasley\u2019s Wizard Wheezes",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the term for people born to two non-magical parents?",
         "a": "Muggles",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is Hermione\u2019s middle name?",
         "a": "Jean",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     }
 ]

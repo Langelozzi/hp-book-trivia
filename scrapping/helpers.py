@@ -14,14 +14,15 @@ def format_question_data(question, answer, difficulty=None, book=None) -> dict:
         'a': answer,
         'difficulty': difficulty,
         'book': book,
-        'duplicate': False
+        'duplicate': False,
+        'flag': False
     }
 
 
 def get_data_file_path(site_name: str) -> str:
     filename = f'{site_name}.json'
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    data_file_path = os.path.join(script_dir, '..', 'data', filename)
+    data_file_path = os.path.join(script_dir, '..', 'data', 'individual', filename)
     return os.path.abspath(data_file_path)
 
 
