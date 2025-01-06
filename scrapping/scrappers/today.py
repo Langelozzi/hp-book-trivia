@@ -10,17 +10,17 @@ def extract_from_today() -> list[dict]:
     soup = BeautifulSoup(html, 'html.parser')
 
     # Get all the question containers
-    q_containers = soup.find_all('ul', {'class': 'body-list-el'}).find_all('li')
+    q_containers = soup.select('ul.body-list-el > li')
 
     questions = []
     for q in q_containers:
+        text_parts = q.text.split('Answer:')
+        
         # Get the actual question
-        q_text_element = q.find('div', {'class': 'wp-block-cover'}).find('p')
-        q_text = q_text_element.text
+        q_text = text_parts[0].strip()
 
         # Get the answer
-        a_text_element = q.find('div', {'class': 'be-answer', 'data-correct': 'true'}).find('p', {'class': 'be-answer-title'})
-        a_text = a_text_element.text
+        a_text = text_parts[1].strip()
 
         questions.append(format_question_data(q_text, a_text))
     

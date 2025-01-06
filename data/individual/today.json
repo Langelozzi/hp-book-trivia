@@ -1,0 +1,682 @@
+[
+    {
+        "q": "What is Professor Remus Lupin's secret?",
+        "a": "He's a werewolf",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Vomit, laundry detergent and booger are flavors of what candy?",
+        "a": "Bertie Bott's Every Flavor Beans",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Actor Robbie Coltrane played what beloved character in the Harry Potter movies?",
+        "a": "Hagrid",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What spell instantly removes the wand from your challenger's hand?",
+        "a": "Expelliarmus",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Which Harry Potter character memorably said, \u201cHappiness can be found, even in the darkest of times, if one only remembers to turn on the light\u201d?",
+        "a": "Albus Dumbledore",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is Draco Malfoy's mother's name?",
+        "a": "Narcissa Malfoy",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "This notable Diagon Alley shop sells robes, uniforms and other school supplies.",
+        "a": "Madam Malkin\u2019s Robes",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "During his fifth year, Harry was banned from going on a field trip to what popular wizarding destination?",
+        "a": "Hogsmeade",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "In the Harry Potter books, what is Harry's favorite dessert?",
+        "a": "Treacle Tart",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Before Severus Snape, who was the the Potions mProfessor Horace Slughornaster and Head of Slytherin House?",
+        "a": "Professor Horace Slughorn",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What concoction does Hermione give Harry and Ron to make them appear as Crabbe and Goyle in \u201cHarry Potter and the Chamber of Secrets\"?",
+        "a": "Polyjuice Potion",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What are the names of Ron Weasley\u2019s twin brothers?",
+        "a": "Fred and George",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Which actor portrayed Albus Dumbledore in the first two Harry Potter movies (\"The Sorcerer's Stone\" and \"The Chamber of Secrets\")?",
+        "a": "Richard Harris",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What month, day and year is Harry Potter's birthday?",
+        "a": "July 31, 1980",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is the name of the house elf who warns Harry Potter against returning to Hogwarts in \"Harry Potter and the Chamber of Secrets\"?",
+        "a": "Dobby",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What three schools of magic compete in the Triwizard Tournament in \"Harry Potter and the Goblet of Fire\"?",
+        "a": "Hogwarts, Durmstrang and Beauxbatons",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is Minerva McGonagall a professor of at Hogwarts School for Witchcraft and Wizardry?",
+        "a": "Transfiguration",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Before \"Twilight,\" Robert Pattinson appeared in \"Harry Potter and the Goblet of Fire\"c as what character?",
+        "a": "Cedric Diggory",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What position does Harry Potter play in Quidditch?",
+        "a": "Seeker",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is Hagrid's first name?",
+        "a": "Rubeus",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is the name of the cat belonging to Hogwarts' caretaker, Argus Filch?",
+        "a": "Mrs. Norris",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What actor plays Hogwarts professor Sybil Trelawney in \"Harry Potter and the Order of the Phoenix\"?",
+        "a": "Emma Thompson",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is the name of Harry Potter's hometown?",
+        "a": "Godric's Hollow",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What does Harry use to destroy Tom Riddle's diary, a Horcrux, in \"Chamber of Secrets\"?",
+        "a": "The fang of a basilisk",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "How many players are there on a Quidditch team?",
+        "a": "7",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "In the book, \"Harry Potter and the Half-Blood Prince\" which bridge do the Death Eaters destroy?",
+        "a": "Brockdale Bridge",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is the original name of the J.K. Rowling book \"Harry Potter and the Sorcerer's Stone\"?",
+        "a": "\"Harry Potter and the Philosopher's Stone\"",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "After being destroyed by the Whomping Willow, Harry's Nimbus 2000 is replaced with what broom?",
+        "a": "The Firebolt",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is Hermione Granger's middle name?",
+        "a": "Jean",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What pub does the Knight Bus drop Harry Potter off at after he flees the Dursleys' in \"Harry Potter and the Prisoner of Azkaban\"?",
+        "a": "The Leaky Cauldron",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Actor Shirley Henderson plays which iconic character in the Harry Potter movies \"Chamber of Secrets\" and \"Goblet of Fire\"?",
+        "a": "Moaning Myrtle",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is name of Voldemort's beloved snake and companion?",
+        "a": "Nagini",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "The Hogwarts Express departs from what platform?",
+        "a": "9 3/4",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is the name of the shape-shifter that can appear in the likeness of a person's worst fear?",
+        "a": "Boggart",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Harry Potter and the Dursleys live on Privet Drive in Surrey. What is the house number?",
+        "a": "4",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What must one use to travel via the Floo Network?",
+        "a": "Floo powder",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "In \"Harry Potter and the Prisoner of Azkaban,\" Hagrid receives a promotion at Hogwarts. What is his new role?",
+        "a": "Care of Magical Creatures professor",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Whose wedding reception is violently interrupted by Death Eaters in \"Harry Potter and the Deathly Hallows\"?",
+        "a": "Bill Weasley and Fleur Delacour",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Who was Draco Malfoy's date at the Yule Ball in \"Harry Potter and the Goblet of Fire\"?",
+        "a": "Pansy Parkinson",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "In Harry Potter's first Quidditch match, how does he \"catch\" the snitch to win the game?",
+        "a": "In his mouth",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is the name of the wand shop in Diagon Alley?",
+        "a": "Ollivanders",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "The deepest vaults of Gringotts Bank are protected by what?",
+        "a": "A dragon",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What are Voldemort's horcruxes (not including Harry Potter)?",
+        "a": "Tom Riddle's' diary, Marvolo Gaunt's ring, Salazar Slytherin's locket, Helga Hufflepuff's cup, Rowena Ravenclaw's diadem and Nagini.",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is the name of the plant with healing properties whose scream is so piercing it can be fatal?",
+        "a": "Mandrake",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What are the four houses of Hogwarts?",
+        "a": "Gryffindor, Slytherin, Hufflepuff and Ravenclaw",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What defensive spell can be used to deflect spells cast by enemies and other wizards?",
+        "a": "The Protego spell",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Which Harry Potter character is dubbed \"The Half-Blood Prince\"?",
+        "a": "Severus Snape",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Who notably said, \"The ministry has fallen. Scrimgeour is dead. They are coming,\" in \"Harry Potter and the Deathly Hallows\"?",
+        "a": "Kingsley Shacklebolt",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What animal is Harry Potter's patronus?",
+        "a": "The stag",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "After missing the train, Harry and Ron use an enchanted car to fly to Hogwarts in \"Chamber of Secrets.\" What make and model is the automobile?",
+        "a": "Ford Anglia",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "In \"Harry Potter and the Deathly Hallows\" Harry swims to the bottom of a frozen pond to retrieve what magical item?",
+        "a": "The sword of Gryffindor",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Who is the Defence Against the Dark Arts professor in \"Harry Potter and the Prisoner of Azkaban\"?",
+        "a": "Remus Lupin",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What position does Ron Weasley play on Gryffindor's Quidditch team in the movie \"Harry Potter and the Half-Blood Prince\"?",
+        "a": "Keeper (or goalie)",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "During what major sporting event does Voldemort's \"Dark Mark\" appear in the sky in \"Goblet of Fire\"?",
+        "a": "The Quidditch World Cup",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What does the Hogwarts\u2019 motto \u201cDraco Dormiens Nunquam Titillandus\u201d mean?",
+        "a": "Never tickle a sleeping dragon",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Moony, Wormtail, Padfoot & Prongs are proud to present what notable magical item used in \"Harry Potter and the Prisoner of Azkaban\"?",
+        "a": "The Marauder's Map",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What nickname does Hagrid give the three-headed dog that stands guard over the Sorcerer's Stone?",
+        "a": "Fluffy",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "This clever, magical accessory decides which house Hogwarts' students will be assigned to. What is it?",
+        "a": "The Sorting Hat",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "How many presents does Dudley Dursley complain about not receiving on his birthday in \"Harry Potter and the Sorcerer's Stone\"?",
+        "a": "37",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is the name of Albus Dumbledore's phoenix?",
+        "a": "Fawkes",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is a wizard or witch that can turn into a specific animal at will called?",
+        "a": "Animagus",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is Ron Weasley's biggest fear?",
+        "a": "Spiders",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "In the \"Order of the Phoenix,\" what kind of collectible plates does Dolores Umbridge display?",
+        "a": "Cat",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Tom Marvolo Riddle is an anagram for what?",
+        "a": "I am Lord Voldemort",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Hermione Granger's parents are Muggle-born and both work as what?",
+        "a": "Dentists",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "How are Sirius Black and Bellatrix Lestrange related?",
+        "a": "They are first cousins",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is the name of Hagrid's hippogriff?",
+        "a": "Buckbeak",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "In \"Harry Potter and the Half-Blood Prince,\" Ginny Weasley joins the Gryffindor Quidditch team playing what position?",
+        "a": "A Chaser",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Which Hogwarts' house does Luna Lovegood belong to?",
+        "a": "Ravenclaw",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What organization is responsible for governing the wizarding world?",
+        "a": "The Ministry of Magic",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Which American composer and conductor composed \"Hedwig\u2019s Theme,\" otherwise known as the \u201cHarry Potter Theme\u201d?",
+        "a": "John Williams",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What train station is home to the Hogwarts Express?",
+        "a": "King's Cross Station",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "At what Diagon Alley store can Hogwarts students purchase their robes?",
+        "a": "Madam Malkin's",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "Which Harry Potter character disguised himself as Scabbers, Ron Weasley's pet rat?",
+        "a": "Peter Pettigrew",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "British actor John Cleese portrays what character in the Harry Potter movies \"Sorcerer's Stone\" and \"Chamber of Secrets\"?",
+        "a": "Nearly Headless Nick",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "For which wizarding family was Dobby, the house elf, in servitude to?",
+        "a": "The Malfoys",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What year was the final movie, \"Harry Potter and the Deathly Hallows \u2013 Part 2\" released?",
+        "a": "2011",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "In the Harry Potter books, what are \"squibs\"?",
+        "a": "Children born to wizard parents that have no magical abilities or powers of their own.",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "In \"Chamber of Secrets\" who is the author of the autobiography \"Magical Me\"?",
+        "a": "Gilderoy Lockhart",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is the name of Harry Potter's owl?",
+        "a": "Hedwig",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "For the majority of the Harry Potter series, what kind of professor is Severus Snape?",
+        "a": "Potions",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What does Ron Weasley drink that that nearly kills him in \"Harry Potter and the Half-Blood Prince\"?",
+        "a": "Poisoned mead",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What is the name of Hermione Granger's cat?",
+        "a": "Crookshanks",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "What poltergeist appears only in the Harry Potter books and not the films?",
+        "a": "Peeves",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    },
+    {
+        "q": "In order, what are the names of the seven Harry Potter books?",
+        "a": "\"Harry Potter and the Sorcerer's Stone,\" \"Harry Potter and the Chamber of Secrets,\" \"Harry Potter and the Prisoner of Azkaban,\" \"Harry Potter and the Goblet of Fire,\" Harry Potter and the Order of the Phoenix,\" \"Harry Potter and the Half-Blood Prince\" and \"Harry Potter and the Deathly Hallows",
+        "difficulty": null,
+        "book": null,
+        "duplicate": false,
+        "flag": false
+    }
+]
