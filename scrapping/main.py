@@ -1,5 +1,6 @@
 from scrappers.trivia_whizz import extract_from_triviawhizz
 from scrappers.science_of_people import extract_from_sop
+from scrappers.buzzfeed import extract_from_buzzfeed170
 from helpers import add_new_field_w_default_value
 import json
 
@@ -17,8 +18,9 @@ def add_field_to_file():
 
 def main():
     extractor_funcs = [
-        extract_from_sop,
-        extract_from_triviawhizz
+        extract_from_buzzfeed170
+        # extract_from_sop,
+        # extract_from_triviawhizz
     ]
 
     print(f'Starting data extraction from {len(extractor_funcs)} different sources...')

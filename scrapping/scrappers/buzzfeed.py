@@ -3,22 +3,24 @@ from bs4 import BeautifulSoup
 
 URL = 'https://www.buzzfeed.com/laurafrustaci/harry-potter-trivia-questions-answers'
 
-def extract_from_buzzfeed70() -> list[dict]:
+def extract_from_buzzfeed170() -> list[dict]:
     print(f'Starting data extraction from "{URL}"...')
 
     html = get_raw_html(URL)
     soup = BeautifulSoup(html, 'html.parser')
 
     # Get all the question containers
-    q_containers = #########
+    q_containers = soup.find_all('span', {'class': 'subbuzz__number'})
 
     questions = []
     for q in q_containers:
         # Get the actual question
-        q_text = #########
+        q_text_element = q.find_next_sibling()
+        q_text = q_text_element.text
 
         # Get the answer
-        a_text = #########
+        a_text_element = q.parent.parent.find('p')
+        a_text = a_text_element.text
 
         questions.append(format_question_data(q_text, a_text))
     
@@ -35,4 +37,4 @@ def extract_from_buzzfeed70() -> list[dict]:
 
 
 if __name__ == '__main__':
-    extract_from_buzzfeed70()
+    extract_from_buzzfeed170()
