@@ -10,15 +10,17 @@ def extract_from_sop() -> list[dict]:
     soup = BeautifulSoup(html, 'html.parser')
 
     # Get all the question containers
-    q_containers = #########
+    q_containers = soup.find_all('ol', {'class': 'wp-block-list', 'start': True})
 
     questions = []
     for q in q_containers:
         # Get the actual question
-        q_text = #########
+        q_text_element = q.find('li')
+        q_text = q_text_element.text
 
         # Get the answer
-        a_text = #########
+        a_text_element = q.find_next_sibling()
+        a_text = a_text_element.text
 
         questions.append(format_question_data(q_text, a_text))
     
