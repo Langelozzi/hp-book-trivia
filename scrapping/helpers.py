@@ -29,3 +29,10 @@ def get_data_file_path(site_name: str) -> str:
 def write_data(q, file_path):
     with open(file_path, 'w') as data_file:
         json.dump(q, data_file)
+
+        
+def add_new_field_w_default_value(data, field_name, default_value) -> list[dict]:
+    for d in data:
+        d[field_name] = default_value
+    
+    return data

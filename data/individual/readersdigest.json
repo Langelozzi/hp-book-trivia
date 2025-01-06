@@ -4,804 +4,919 @@
         "a": "Thestral",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Voldemort’s mother’s name?",
+        "q": "What is Voldemort\u2019s mother\u2019s name?",
         "a": "Merope Gaunt",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Harry’s middle name?",
+        "q": "What is Harry\u2019s middle name?",
         "a": "James",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the name of the popular wizarding newspaper based in London, England?",
         "a": "The Daily Prophet",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What kind of wood is Harry’s first wand made out of?",
+        "q": "What kind of wood is Harry\u2019s first wand made out of?",
         "a": "Holly",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who wrote A History of Magic?",
         "a": "Bathilda Bagshot",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What are employees of the Department of Mysteries called?",
         "a": "Unspeakables",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What magical creature is known for guarding Gringott’s Bank?",
+        "q": "What magical creature is known for guarding Gringott\u2019s Bank?",
         "a": "Ukrainian Ironbelly, a type of dragon",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Hermione’s cat’s name?",
+        "q": "What is Hermione\u2019s cat\u2019s name?",
         "a": "Crookshanks",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What does Harry name his children?",
         "a": "James Sirius, Albus Severus and Lily Luna",
         "difficulty": null,
         "book": null,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "Where does Rubeus Hagrid first tell Harry that he’s a wizard?",
+        "q": "Where does Rubeus Hagrid first tell Harry that he\u2019s a wizard?",
         "a": "In a hut on a rock",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What does Harry do to impress Professor McGonagall enough that she gets him on the Gryffindor Quidditch team?",
-        "a": "Catches Neville Longbottom’s Remembrall",
+        "a": "Catches Neville Longbottom\u2019s Remembrall",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "Which puzzle guarding the Sorcerer’s Stone does Hermione Granger solve?",
-        "a": "Professor Snape’s logic puzzle with potion bottles",
+        "q": "Which puzzle guarding the Sorcerer\u2019s Stone does Hermione Granger solve?",
+        "a": "Professor Snape\u2019s logic puzzle with potion bottles",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which mischievous character from the books did not feature in the movies?",
         "a": "Peeves the Poltergeist",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "The Hogwarts motto is “Draco dormiens nunquan titillandus.” What does it mean?",
+        "q": "The Hogwarts motto is \u201cDraco dormiens nunquan titillandus.\u201d What does it mean?",
         "a": "Never tickle a sleeping dragon.",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who played Professor Dumbledore in the first movie?",
         "a": "Richard Harris",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the title of this book and movie everywhere except in the United States?",
-        "a": "Harry Potter and the Philosopher’s Stone",
+        "a": "Harry Potter and the Philosopher\u2019s Stone",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who discovered the 12 uses for dragon blood?",
         "a": "Professor Dumbledore",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "In what year was the book Harry Potter and the Sorcerer’s Stone released in the United States?",
+        "q": "In what year was the book Harry Potter and the Sorcerer\u2019s Stone released in the United States?",
         "a": "1998",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many presents did Dudley Dursley receive on his birthday in total?",
         "a": "38. It was 36 (one less than last year), but then Mrs. Dursley bought him two new presents to make up for it.",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What was the Fat Lady’s password to get into the Gryffindor common room?",
+        "q": "What was the Fat Lady\u2019s password to get into the Gryffindor common room?",
         "a": "Caput Draconis",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the first line of the book?",
         "a": "Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Where does Harry Potter first see Draco Malfoy?",
-        "a": "In Madame Malkin’s Robes for All Occasions",
+        "a": "In Madame Malkin\u2019s Robes for All Occasions",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What do Uncle Vernon and Aunt Petunia give Harry for Christmas?",
         "a": "A 50-pence piece",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "This real-life library served as the restricted section of the Hogwarts library in the film version. Which is it?",
         "a": "The Bodleian Library at Oxford University",
         "difficulty": null,
         "book": 1,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In the movie, Professor McGonagall explains the origins of the Chamber of Secrets. Who does it in the book?",
         "a": "Professor Binns, the history teacher (who is also a ghost)",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Why does Neville Longbottom faint in Herbology class?",
         "a": "His earmuffs were loose, so he heard the cry of the baby mandrake.",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "On what date do the Weasleys rescue Harry from number four, Privet Drive?",
-        "a": "July 31—his birthday, of course!",
+        "a": "July 31\u2014his birthday, of course!",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "Who removes all the bones from Harry’s arm?",
+        "q": "Who removes all the bones from Harry\u2019s arm?",
         "a": "Gilderoy Lockhart",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "When Harry, Ron and Hermione make Polyjuice Potion, who steals the ingredients from Professor Snape’s office?",
+        "q": "When Harry, Ron and Hermione make Polyjuice Potion, who steals the ingredients from Professor Snape\u2019s office?",
         "a": "Hermione",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "When Hermione Granger is found Petrified, she is not alone. Who is with her?",
         "a": "Penelope Clearwater",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What office does Arthur Weasley work for in the Ministry of Magic?",
         "a": "The Misuse of Muggle Artefacts Office",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many Muggles see the flying Ford Anglia as Harry and Ron make their way to school?",
         "a": "Seven",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Gilderoy Lockhart’s favorite color?",
+        "q": "What is Gilderoy Lockhart\u2019s favorite color?",
         "a": "Lilac",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the cure for being Petrified?",
         "a": "Mandrake root",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who was headmaster or headmistress at Hogwarts when Tom Riddle was a student?",
         "a": "Armando Dippet",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Gilderoy Lockhart’s autobiography called?",
+        "q": "What is Gilderoy Lockhart\u2019s autobiography called?",
         "a": "Magical Me",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Where did Harry begin hearing the voice that no one else could hear?",
-        "a": "In Professor Lockhart’s office",
+        "a": "In Professor Lockhart\u2019s office",
         "difficulty": null,
         "book": 2,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who is Stan Shunpike?",
         "a": "The conductor of the Knight Bus",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who plays Professor Dumbledore in this and the subsequent Harry Potter movies?",
         "a": "Michael Gambon",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many classes did Hermione Granger take this year?",
         "a": "12!",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "During the Quidditch game between Gryffindor and Hufflepuff, who is the Hufflepuff seeker?",
         "a": "Cedric Diggory (unnamed in the movie, but not in the book)",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "In the book, who becomes the temporary guard to the Gryffindor common room after the Fat Lady’s painting is damaged?",
+        "q": "In the book, who becomes the temporary guard to the Gryffindor common room after the Fat Lady\u2019s painting is damaged?",
         "a": "Sir Cadogan",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who did Harry overhear in the Three Broomsticks talking about how Sirius Black betrayed his parents?",
         "a": "Professor Flitwick, Professor McGonagall, Hagrid, Cornelius Fudge and Madam Rosmerta",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Why do Ron Weasley and Hermione Granger stop speaking?",
-        "a": "Ron blames Hermione’s cat, Crookshanks, for the disappearance of his pet rat, Scabbers.",
+        "a": "Ron blames Hermione\u2019s cat, Crookshanks, for the disappearance of his pet rat, Scabbers.",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What does Uncle Vernon’s sister, Marge Dursley, do for a living?",
+        "q": "What does Uncle Vernon\u2019s sister, Marge Dursley, do for a living?",
         "a": "Breeds bulldogs",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In the movie, what sound does Ron make after eating a magical candy?",
-        "a": "A lion’s roar",
+        "a": "A lion\u2019s roar",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Parvati Patil’s Boggart in the book and the movie?",
+        "q": "What is Parvati Patil\u2019s Boggart in the book and the movie?",
         "a": "In the book, a mummy; in the movie, a giant cobra",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "And how does Parvati defeat it?",
         "a": "In the book, the mummy trips on its wrappings. In the movie, it turns into a giant jack-in-the-box (arguably no less scary).",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "At the beginning of the story, where does Hedwig find Harry?",
         "a": "She is waiting in his room at the Leaky Cauldron. Clever owl!",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "When Neville Longbottom dresses his Boggart (Professor Snape) up in his grandmother’s clothes, what stuffed bird is on top of the hat?",
+        "q": "When Neville Longbottom dresses his Boggart (Professor Snape) up in his grandmother\u2019s clothes, what stuffed bird is on top of the hat?",
         "a": "A vulture",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "When Professor Snape takes over Professor Lupin’s Defense Against the Dark Arts class, which page does he ask the students to turn to?",
+        "q": "When Professor Snape takes over Professor Lupin\u2019s Defense Against the Dark Arts class, which page does he ask the students to turn to?",
         "a": "Page 394 (the page on werewolves)",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What two creatures are Hippogriffs a mix of?",
         "a": "Horses and eagles",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How much gold do the Weasleys win in the Daily Prophet Grand Prize Galleon Draw?",
         "a": "700 galleons",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "And where do the Weasleys go on holiday with their winnings?",
         "a": "Egypt",
         "difficulty": null,
         "book": 3,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Fleur Delacour’s little sister’s name?",
+        "q": "What is Fleur Delacour\u2019s little sister\u2019s name?",
         "a": "Gabrielle",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who can turn into a beetle at will?",
         "a": "Rita Skeeter",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What two countries are competing in the Quidditch World Cup Final?",
         "a": "Ireland and Bulgaria",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What beloved Hogwarts activity is canceled in the fourth year due to the Triwizard Tournament?",
         "a": "Quidditch",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who grows a beard after trying to cheat their way into the Triwizard Tournament?",
         "a": "Fred and George Weasley (who else?)",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which important characters feature in the book but not the movie?",
         "a": "The Dursleys",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Members of which two famous U.K. bands played the band Weird Sisters at the Yule Ball?",
         "a": "Pulp and Radiohead",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How does Cedric Diggory defeat his dragon in the first task of the Triwizard Tournament?",
         "a": "He transfigures a rock into a dog to distract it.",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Mad-Eye Moody’s catchphrase?",
+        "q": "What is Mad-Eye Moody\u2019s catchphrase?",
         "a": "CONSTANT VIGILANCE!",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which challenge in the Triwizard Tournament maze was left out of the movies?",
-        "a": "The Sphinx’s riddle",
+        "a": "The Sphinx\u2019s riddle",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "In the book, the Weasleys come to pick up Harry for the Quidditch World Cup. Which of Fred and George’s candies does Dudley eat?",
+        "q": "In the book, the Weasleys come to pick up Harry for the Quidditch World Cup. Which of Fred and George\u2019s candies does Dudley eat?",
         "a": "Ton-Tongue Toffee",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What does Mad-Eye Moody turn Draco Malfoy into?",
         "a": "A ferret",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What Quidditch team did Lugo Bagman play for?",
         "a": "Wimbourne Wasps",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "And what position did Lugo play?",
         "a": "Beater",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Ron Weasley’s role in S.P.E.W.?",
+        "q": "What is Ron Weasley\u2019s role in S.P.E.W.?",
         "a": "Treasurer",
         "difficulty": null,
         "book": 4,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which exciting moment in the book is cut out of the movie?",
         "a": "Gryffindor winning the Quidditch Cup",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the crime Harry commits that causes the Ministry of Magic to hold a disciplinary hearing for him?",
         "a": "He uses the Patronus Charm in front of a Muggle (Dudley, and only because there were Dementors!).",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "Which two students came up with the name “Dumbledore’s Army?”",
+        "q": "Which two students came up with the name \u201cDumbledore\u2019s Army?\u201d",
         "a": "Cho Chang and Ginny Weasley",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "Which of Harry’s acquaintances reveals that he doesn’t believe Harry’s story about Voldemort being back?",
+        "q": "Which of Harry\u2019s acquaintances reveals that he doesn\u2019t believe Harry\u2019s story about Voldemort being back?",
         "a": "Seamus Finnigan (who eventually comes around)",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Draco Malfoy’s mother’s name?",
+        "q": "What is Draco Malfoy\u2019s mother\u2019s name?",
         "a": "Narcissa",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What animal is Dolores Umbridge obsessed with?",
         "a": "Cats (specifically, kittens)",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In the book, what sport has Dudley recently taken up?",
         "a": "Boxing",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Hagrid’s half-brother’s name?",
+        "q": "What is Hagrid\u2019s half-brother\u2019s name?",
         "a": "Grawp",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How does Dumbledore escape from his office when the Ministry of Magic comes to take him to Azkaban?",
-        "a": "He grabs Fawkes’s tail, and they disappear in a flash of fire.",
+        "a": "He grabs Fawkes\u2019s tail, and they disappear in a flash of fire.",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Where do Harry Potter and Cho Chang have their first kiss?",
         "a": "In the Room of Requirement",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the address of the Headquarters of the Order of the Phoenix?",
         "a": "12 Grimmauld Place, London",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What did Sirius Black’s mother do to his name on the Black family tapestry?",
+        "q": "What did Sirius Black\u2019s mother do to his name on the Black family tapestry?",
         "a": "Burned it away",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What do Harry, Ron and Hermione find in the locked cabinet of a writing desk at the Order of the Phoenix Headquarters?",
         "a": "A Boggart",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "Hermione places a jinx on the piece of parchment members of Dumbledore’s Army sign. What happens to those who betray the group?",
+        "q": "Hermione places a jinx on the piece of parchment members of Dumbledore\u2019s Army sign. What happens to those who betray the group?",
         "a": "Pustules will form the word sneak across their foreheads.",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "In the book, which old friend do Harry, Ron and Hermione run into at St. Mungo’s Hospital for Magical Maladies and Injuries?",
+        "q": "In the book, which old friend do Harry, Ron and Hermione run into at St. Mungo\u2019s Hospital for Magical Maladies and Injuries?",
         "a": "Neville Longbottom",
         "difficulty": null,
         "book": 5,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who concocts a love potion meant for Harry that Ron ends up taking by mistake?",
         "a": "Romilda Vane",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "And who is Ron’s actual love interest this year?",
+        "q": "And who is Ron\u2019s actual love interest this year?",
         "a": "Lavender Brown",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "Which of Voldemort’s Horcruxes do Harry and Dumbledore track down—but it turns out to be a fake?",
-        "a": "Slytherin’s locket",
+        "q": "Which of Voldemort\u2019s Horcruxes do Harry and Dumbledore track down\u2014but it turns out to be a fake?",
+        "a": "Slytherin\u2019s locket",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is the name of Fred and George Weasley’s shop?",
-        "a": "Weasley’s Wizard Wheezes",
+        "q": "What is the name of Fred and George Weasley\u2019s shop?",
+        "a": "Weasley\u2019s Wizard Wheezes",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who teaches Potions class this year?",
         "a": "Professor Horace Slughorn",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What are the gemstones in the cursed necklace Draco Malfoy buys from Borgin and Burkes?",
         "a": "Opals",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What spell did Snape invent that Harry later uses on Draco Malfoy?",
         "a": "Sectumsempra",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What does Hermione smell in the amortenia (or love) potion?",
-        "a": "Grass, parchment, spearmint toothpaste and Ron Weasley’s hair",
+        "a": "Grass, parchment, spearmint toothpaste and Ron Weasley\u2019s hair",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "True or false: This is the longest movie in the franchise.",
         "a": "False! Harry Potter and the Chamber of Secrets is the longest movie, at 161 minutes.",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "Lily Potter once gave Professor Slughorn a bowl with a lily that turned into a goldfish. What was the goldfish’s name?",
+        "q": "Lily Potter once gave Professor Slughorn a bowl with a lily that turned into a goldfish. What was the goldfish\u2019s name?",
         "a": "Francis",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "How many Horcruxes have been destroyed at the end of this story?",
         "a": "Two: the diary and the ring",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who is the Half-Blood Prince?",
         "a": "Severus Snape",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What do all the hands on the Weasleys’s magical clock point to when Harry gets to the Burrow?",
+        "q": "What do all the hands on the Weasleys\u2019s magical clock point to when Harry gets to the Burrow?",
         "a": "Mortal peril",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who is in the first memory Professor Dumbledore shows Harry in the Pensieve?",
         "a": "Bob Ogden, an employee of the Department of Magical Law Enforcement",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What are the three D’s of a successful Apparition?",
+        "q": "What are the three D\u2019s of a successful Apparition?",
         "a": "Destination, determination and deliberation",
         "difficulty": null,
         "book": 6,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who loses an ear at the start of the book?",
         "a": "George Weasley",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which four characters hold the position of Minister of Magic throughout the books?",
         "a": "Cornelius Fudge, Rufus Scrimgeour, Pius Thicknesse and Kingsley Shacklebolt",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "In the epilogue to the book, who says, “Don’t let it worry you. It’s me, I’m extremely famous.”",
+        "q": "In the epilogue to the book, who says, \u201cDon\u2019t let it worry you. It\u2019s me, I\u2019m extremely famous.\u201d",
         "a": "Ron Weasley",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "In the movie, who hugs Draco Malfoy?",
-        "a": "Voldemort (and it’s super awkward)",
+        "a": "Voldemort (and it\u2019s super awkward)",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "True or false: Harry Potter and the Deathly Hallows: Part Two is the shortest Harry Potter movie.",
         "a": "True! The run time is just 130 minutes.",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Which character do we see ride a broom for the first time in this movie?",
         "a": "Hermione Granger",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "On what date did the Battle of Hogwarts end with Voldemort’s death?",
+        "q": "On what date did the Battle of Hogwarts end with Voldemort\u2019s death?",
         "a": "May 2, 1998",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is the name of Fleur Delacour and Bill Weasley’s house?",
+        "q": "What is the name of Fleur Delacour and Bill Weasley\u2019s house?",
         "a": "Shell Cottage",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What fake illness does Ron Weasley say he has to cover up his absence from Hogwarts?",
         "a": "Spattergroit",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What does Harry steal from Dolores Umbridge’s office in the Ministry of Magic?",
-        "a": "Mad-Eye Moody’s magical eyeball",
+        "q": "What does Harry steal from Dolores Umbridge\u2019s office in the Ministry of Magic?",
+        "a": "Mad-Eye Moody\u2019s magical eyeball",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Luna Lovegood’s father’s name?",
+        "q": "What is Luna Lovegood\u2019s father\u2019s name?",
         "a": "Xenophilius Lovegood",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "Who was in love with Helena Ravenclaw?",
         "a": "The Bloody Baron",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "In the book, where do Hermione Granger’s parents move to?",
+        "q": "In the book, where do Hermione Granger\u2019s parents move to?",
         "a": "Australia",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
-        "q": "What is Professor Snape’s Patronus?",
-        "a": "A doe (the same as Lily Potter’s—sob)",
+        "q": "What is Professor Snape\u2019s Patronus?",
+        "a": "A doe (the same as Lily Potter\u2019s\u2014sob)",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     },
     {
         "q": "What is the last line of the last book?",
         "a": "All was well.",
         "difficulty": null,
         "book": 7,
-        "duplicate": false
+        "duplicate": false,
+        "flag": false
     }
 ]

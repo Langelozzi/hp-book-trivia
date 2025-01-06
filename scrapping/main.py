@@ -1,5 +1,18 @@
 from scrappers.trivia_whizz import extract_from_triviawhizz
 from scrappers.science_of_people import extract_from_sop
+from helpers import add_new_field_w_default_value
+import json
+
+
+def add_field_to_file():
+    filepath = '../data/individual/readersdigest.json', 'r'
+    with open(filepath) as file:
+        data = json.load(file)
+        updated_data = add_new_field_w_default_value(data, 'flag', False)
+    
+    with open(filepath, 'w') as file:
+        json.dump(updated_data, file)
+
 
 
 def main():
@@ -16,6 +29,7 @@ def main():
         data = func()
         print('---\n')
         q.extend(data)
+
 
 if __name__ == '__main__':
     main()
