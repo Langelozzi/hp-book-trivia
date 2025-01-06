@@ -37,7 +37,7 @@ def main():
     # Write the merged data to 'q.json'
     write_merged_data(merged_data, output_file)
 
-    print(f"Successfully merged {len(json_files)} files into {output_file}")
+    print(f"Successfully merged {len(json_files)} files ({len(merged_data)} questions) into {output_file}")
 
 if __name__ == "__main__":
     main()
