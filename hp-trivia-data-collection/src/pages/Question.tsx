@@ -1,5 +1,6 @@
 import { useLocation } from "react-router-dom";
-import { Question } from "../interfaces/question";
+import { Question } from '../interfaces/question';
+import QuestionCard from "../components/QuestionCard";
 
 const QuestionPage = () => {
     const location = useLocation();
@@ -7,7 +8,7 @@ const QuestionPage = () => {
 
     return (
         <>
-            {question.q}
+            <QuestionCard q={question} />
         </>
     )
 };
