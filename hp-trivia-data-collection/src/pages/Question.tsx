@@ -10,7 +10,7 @@ const QuestionPage = () => {
     const navigate = useNavigate();
 
     const question = location.state as Question;
-    const currentIndex = rawData.findIndex(q => q.q === question.q);
+    const currentIndex = question.id - 1;
 
     const prevQuestion = rawData[currentIndex - 1] || null;
     const nextQuestion = rawData[currentIndex + 1] || null;

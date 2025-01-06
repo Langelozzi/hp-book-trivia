@@ -20,15 +20,15 @@ const Home = () => {
                 overflow: 'auto', // Makes the Box scrollable
             }}
         >
-            {data.map((q, index) => {
+            {data.map((q) => {
                 return (
                     <Box
                         sx={{
                             marginBottom: 2
                         }}
-                        key={index}
+                        key={q.id}
                     >
-                        <OverviewCard number={index + 1} text={q.q} isComplete={q.checked} onClick={() => { onCardClick(q) }} />
+                        <OverviewCard number={q.id} text={q.q} isComplete={q.checked} onClick={() => { onCardClick(q) }} />
                     </Box>
                 )
             })}
