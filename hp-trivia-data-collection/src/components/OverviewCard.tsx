@@ -8,7 +8,7 @@ interface OverviewCardProps {
     number: number;
     text: string;
     isComplete: boolean;
-    onClick: () => void; // Function to handle click
+    onClick: (data: any) => void; // Function to handle click
 }
 
 const OverviewCard: React.FC<OverviewCardProps> = ({ number, text, isComplete, onClick }) => {

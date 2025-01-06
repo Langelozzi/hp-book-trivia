@@ -1,9 +1,18 @@
 import { Typography, Button, Box } from '@mui/material';
-import { Link } from 'react-router-dom';
-import data from '../data/q.json'
+import { Link, useNavigate } from 'react-router-dom';
+import rawData from '../data/q.json'
 import OverviewCard from '../components/OverviewCard';
+import { useState } from 'react';
 
 const Home = () => {
+    const [data, setData] = useState(rawData);
+
+    const navigate = useNavigate();
+
+    const onCardClick = (q: any) => {
+        navigate('/question', { state: q })
+    }
+
     return (
         <Box
             sx={{
@@ -19,7 +28,7 @@ const Home = () => {
                         }}
                         key={index}
                     >
-                        <OverviewCard number={index + 1} text={q.q} isComplete={true} onClick={() => { }} />
+                        <OverviewCard number={index + 1} text={q.q} isComplete={q.checked} onClick={() => { onCardClick(q) }} />
                     </Box>
                 )
             })}
