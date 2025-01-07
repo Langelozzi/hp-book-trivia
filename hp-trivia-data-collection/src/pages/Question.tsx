@@ -1,8 +1,9 @@
+import { useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import { Question } from '../interfaces/question';
+import { Question } from "../interfaces/question";
 import QuestionCard from "../components/QuestionCard";
 import { useSwipeable } from "react-swipeable";
-import { Box, IconButton, Typography } from "@mui/material";
+import { Box, IconButton, Typography, Snackbar, Alert } from "@mui/material";
 import { useData } from "../contexts/DataContext";
 import FeedbackForm from "../components/FeedbackForm";
 import { updateRecord } from "../api/firebase-crud";
@@ -19,6 +20,12 @@ const QuestionPage = () => {
     const prevQuestion = data[currentIndex - 1] || null;
     const nextQuestion = data[currentIndex + 1] || null;
 
+    const [snackbarOpen, setSnackbarOpen] = useState(false);
+
+    const handleSnackbarClose = () => {
+        setSnackbarOpen(false);
+    };
+
     const handleSwipeLeft = () => {
         if (nextQuestion) {
             navigate('/question', { state: nextQuestion });
@@ -29,57 +36,71 @@ const QuestionPage = () => {
         if (prevQuestion) {
             navigate('/question', { state: prevQuestion });
         }
-    }
+    };
 
     const swipeHandlers = useSwipeable({
         onSwipedLeft: handleSwipeLeft,
         onSwipedRight: handleSwipeRight,
-        delta: 50
+        delta: 50,
     });
 
-    const handleFormSubmit = async (data: FormData) => {
-        // Add your logic to save the data here (e.g., API call)
-        console.log(data);
-        await updateRecord(question.id.toString(), {
-            checked: true,
-            ...data
-        });
-        await refetchData();
+    const handleFormSubmit = async (formData: FormData) => {
+        try {
+            console.log(formData);
+            await updateRecord(question.id.toString(), {
+                checked: true,
+                ...formData,
+            });
+            await refetchData();
+
+            // Show success message
+            setSnackbarOpen(true);
+        } catch (error) {
+            console.error("Failed to save data", error);
+        }
     };
 
-    // Add buttons that are stuck at bottom that will allow the user to navigate between questions in desktop mode (only in desktop view)
     return (
         <>
+            {/* Navigation Buttons */}
             <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', mb: 1 }}>
-                {/* Left Arrow Button */}
-                <IconButton onClick={() => { handleSwipeRight() }}>
+                <IconButton onClick={handleSwipeRight}>
                     <ArrowBack sx={{ color: 'white' }} />
                 </IconButton>
-
-                {/* Centered Typography */}
                 <Typography align="center" sx={{ flex: 1 }}>
                     {currentIndex + 1}/{data.length}
                 </Typography>
-
-                {/* Right Arrow Button */}
-                <IconButton onClick={() => { handleSwipeLeft() }}>
+                <IconButton onClick={handleSwipeLeft}>
                     <ArrowForward sx={{ color: 'white' }} />
                 </IconButton>
             </Box>
 
+            {/* Main Content */}
             <Box
                 sx={{
                     height: '100vh',
                     display: 'flex',
                     justifyContent: 'center',
                 }}
-                {...swipeHandlers} // Add swipe handlers
+                {...swipeHandlers}
             >
                 <Box>
                     <QuestionCard q={question} />
                     <FeedbackForm q={question} onSubmit={handleFormSubmit} />
                 </Box>
             </Box>
+
+            {/* Snackbar for success message */}
+            <Snackbar
+                open={snackbarOpen}
+                autoHideDuration={3000}
+                onClose={handleSnackbarClose}
+                anchorOrigin={{ vertical: 'bottom', horizontal: 'center' }}
+            >
+                <Alert onClose={handleSnackbarClose} severity="success" sx={{ width: '100%' }}>
+                    Saved successfully
+                </Alert>
+            </Snackbar>
         </>
     );
 };
