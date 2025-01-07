@@ -15,7 +15,7 @@ const Home: React.FC = () => {
     return (
         <Box
             sx={{
-                height: '85vh',
+                height: '90vh',
                 overflow: 'auto',
                 justifyContent: 'center',
                 alignItems: 'center',

@@ -134,7 +134,7 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ q, onSubmit }) => {
                     </Grid2>
 
                     {/* Save Button */}
-                    <Grid2 container justifyContent="flex-end" sx={{ mt: 2 }}>
+                    <Grid2 container justifyContent="center" sx={{ mt: 2 }}>
                         <Button type="submit" variant="contained" sx={{ width: '100%' }}>
                             Save
                         </Button>

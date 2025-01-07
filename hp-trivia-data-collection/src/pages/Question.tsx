@@ -2,10 +2,11 @@ import { useLocation, useNavigate } from "react-router-dom";
 import { Question } from '../interfaces/question';
 import QuestionCard from "../components/QuestionCard";
 import { useSwipeable } from "react-swipeable";
-import { Box, Typography } from "@mui/material";
+import { Box, IconButton, Typography } from "@mui/material";
 import { useData } from "../contexts/DataContext";
 import FeedbackForm from "../components/FeedbackForm";
 import { updateRecord } from "../api/firebase-crud";
+import { ArrowBack, ArrowForward } from "@mui/icons-material";
 
 const QuestionPage = () => {
     const { data, refetchData } = useData();
@@ -49,9 +50,23 @@ const QuestionPage = () => {
     // Add buttons that are stuck at bottom that will allow the user to navigate between questions in desktop mode (only in desktop view)
     return (
         <>
-            <Typography align="center">
-                {currentIndex + 1}/{data.length}
-            </Typography>
+            <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', mb: 1 }}>
+                {/* Left Arrow Button */}
+                <IconButton onClick={() => { handleSwipeRight() }}>
+                    <ArrowBack sx={{ color: 'white' }} />
+                </IconButton>
+
+                {/* Centered Typography */}
+                <Typography align="center" sx={{ flex: 1 }}>
+                    {currentIndex + 1}/{data.length}
+                </Typography>
+
+                {/* Right Arrow Button */}
+                <IconButton onClick={() => { handleSwipeLeft() }}>
+                    <ArrowForward sx={{ color: 'white' }} />
+                </IconButton>
+            </Box>
+
             <Box
                 sx={{
                     height: '100vh',
@@ -66,7 +81,7 @@ const QuestionPage = () => {
                 </Box>
             </Box>
         </>
-    )
+    );
 };
 
 export default QuestionPage;

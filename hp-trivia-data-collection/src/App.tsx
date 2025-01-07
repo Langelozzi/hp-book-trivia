@@ -13,7 +13,7 @@ const App = () => {
           </Button>
         </Toolbar>
       </AppBar>
-      <Container sx={{ marginTop: 4 }}>
+      <Container sx={{ marginTop: 1 }}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/question" element={<QuestionPage />} />
