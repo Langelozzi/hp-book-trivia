@@ -4,9 +4,11 @@ import QuestionCard from "../components/QuestionCard";
 import { useSwipeable } from "react-swipeable";
 import { Box, Typography } from "@mui/material";
 import { useData } from "../contexts/DataContext";
+import FeedbackForm from "../components/FeedbackForm";
+import { updateRecord } from "../api/firebase-crud";
 
 const QuestionPage = () => {
-    const { data } = useData();
+    const { data, refetchData } = useData();
     const location = useLocation();
     const navigate = useNavigate();
 
@@ -34,6 +36,16 @@ const QuestionPage = () => {
         delta: 50
     });
 
+    const handleFormSubmit = async (data: FormData) => {
+        // Add your logic to save the data here (e.g., API call)
+        console.log(data);
+        await updateRecord(question.id.toString(), {
+            checked: true,
+            ...data
+        });
+        await refetchData();
+    };
+
     // Add buttons that are stuck at bottom that will allow the user to navigate between questions in desktop mode (only in desktop view)
     return (
         <>
@@ -50,6 +62,7 @@ const QuestionPage = () => {
             >
                 <Box>
                     <QuestionCard q={question} />
+                    <FeedbackForm q={question} onSubmit={handleFormSubmit} />
                 </Box>
             </Box>
         </>
