@@ -1,19 +1,20 @@
 import { useLocation, useNavigate } from "react-router-dom";
 import { Question } from '../interfaces/question';
 import QuestionCard from "../components/QuestionCard";
-import rawData from '../data/q.json'
 import { useSwipeable } from "react-swipeable";
 import { Box, Typography } from "@mui/material";
+import { useData } from "../contexts/DataContext";
 
 const QuestionPage = () => {
+    const { data } = useData();
     const location = useLocation();
     const navigate = useNavigate();
 
     const question = location.state as Question;
     const currentIndex = question.id - 1;
 
-    const prevQuestion = rawData[currentIndex - 1] || null;
-    const nextQuestion = rawData[currentIndex + 1] || null;
+    const prevQuestion = data[currentIndex - 1] || null;
+    const nextQuestion = data[currentIndex + 1] || null;
 
     const handleSwipeLeft = () => {
         if (nextQuestion) {
@@ -37,7 +38,7 @@ const QuestionPage = () => {
     return (
         <>
             <Typography align="center">
-                {currentIndex + 1}/{rawData.length}
+                {currentIndex + 1}/{data.length}
             </Typography>
             <Box
                 sx={{

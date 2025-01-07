@@ -1,37 +1,47 @@
-import { Box } from '@mui/material';
-import { useState } from 'react';
+import { Box, CircularProgress, Typography } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import OverviewCard from '../components/OverviewCard';
-import rawData from '../data/q.json';
+import { useData } from '../contexts/DataContext';
+import { Question } from '../interfaces/question';
 
-const Home = () => {
-    const [data, setData] = useState(rawData);
-
+const Home: React.FC = () => {
+    const { data, loading } = useData();
     const navigate = useNavigate();
 
-    const onCardClick = (q: any) => {
-        navigate('/question', { state: q })
-    }
+    const onCardClick = (q: Question) => {
+        navigate('/question', { state: q });
+    };
 
     return (
         <Box
             sx={{
-                height: '85vh', // Full viewport height
-                overflow: 'auto', // Makes the Box scrollable
+                height: '85vh',
+                overflow: 'auto',
+                justifyContent: 'center',
+                alignItems: 'center',
             }}
         >
-            {data.map((q) => {
-                return (
-                    <Box
-                        sx={{
-                            marginBottom: 2
-                        }}
-                        key={q.id}
-                    >
-                        <OverviewCard number={q.id} text={q.q} isComplete={q.checked} onClick={() => { onCardClick(q) }} />
+            {loading ? (
+                // Show loading message while data is being fetched
+                <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+                    <CircularProgress />
+                    <Typography variant="h6" sx={{ marginTop: 2 }}>
+                        Loading...
+                    </Typography>
+                </Box>
+            ) : (
+                // Render the cards once data is loaded
+                data.map((q) => (
+                    <Box sx={{ marginBottom: 2 }} key={q.id}>
+                        <OverviewCard
+                            number={q.id}
+                            text={q.q}
+                            isComplete={q.checked}
+                            onClick={() => onCardClick(q)}
+                        />
                     </Box>
-                )
-            })}
+                ))
+            )}
         </Box>
     );
 };
